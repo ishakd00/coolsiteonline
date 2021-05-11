@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=1024">
     <title>Cool Place online</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="media/atom.gif" type="image/gif" >
@@ -11,7 +11,7 @@
 <body>
     <div class="maingrid">
         <div class="sidebar">
-            <h2><a href="index.php">Ishak Dervisevic</a></h2>
+            <h2><a href="index.php">Ishak <br> Dervisevic</a></h2>
             <hr>
             <ul>
                 <li><a href="whoami.php">Who am I</a></li>
