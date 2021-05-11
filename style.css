@@ -1,0 +1,69 @@
+body, html, div, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+.maingrid {
+    display: grid;
+    grid-template: 1fr 25px / minmax(250px, 1fr) 6fr;
+    height: 100vh;
+}
+
+.maingrid>.sidebar {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    grid-row: 1 / span 2;
+}
+
+.maingrid>.sidebar a {
+    color: gray;
+}
+
+.maingrid>.sidebar a:hover {
+    color:white;
+}
+
+.maingrid>.sidebar > h2 {
+    max-width: 200px;
+}
+
+.maingrid>.sidebar > h2 a {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.maingrid>.sidebar>ul {
+    padding-left: 15px;
+}
+
+.maingrid>.content>.header {
+    background-color: blue;
+    border: solid black 1px;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.maingrid>.content img {
+    width: 100%;
+    max-width: 574px;
+}
+
+.maingrid .content {
+    position: relative;
+    padding: 5px;
+}
+
+.maingrid>.footer {
+    background-color: gray;
+}
+
+.maingrid>.footer span {
+    font-size: 14px;
+    font-family: sans-serif,Helvetica,Arial;
+    letter-spacing: 0.5px;
+    padding: 0px 10px;
+}
