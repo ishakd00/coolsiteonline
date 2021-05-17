@@ -1,0 +1,3 @@
+[submodule "WebLC3"]
+	path = WebLC3
+	url = https://github.com/ishakd00/WebLC3.git

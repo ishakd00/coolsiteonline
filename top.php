@@ -16,7 +16,7 @@
             <ul>
                 <li><a href="whoami.php">Who am I</a></li>
                 <li>
-                    <a href="">Professional personal site (cringe)</a>
+                    <a href="http://ishakdervisevic.com">Professional personal site (cringe)</a>
                 </li>
                 <li>
                     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="overflow-wrap: break-word;">
@@ -53,40 +53,40 @@
                     Personal stuffs
                     <ul>
                         <li>
-                            <a href="">Raycasting engine</a>
+                            <a href="raycast.php">Raycasting engine</a>
                         </li>
                         <li>
-                            <a href="">Regex parser and evaluator</a>
+                            <a href="regexEval.php">Regex parser and evaluator</a>
                         </li>
                         <li>
-                            <a href="">FAEG</a>
+                            <a href="https://github.com/ishakd00/faeg">FAEG</a>
                         </li>
                         <li>
-                            <a href="">olxba-py</a>
+                            <a href="https://github.com/ishakd00/olxba-py">olxba-py</a>
                         </li>
                         <li>
-                            <a href="">Retro shit</a>
+                            <a href="nothereyet.php">Retro shit</a>
                         </li>
                         <li>
-                            <a href="">Graphics fun</a>
+                            <a href="https://github.com/ishakd00/jraphics">Graphics fun</a>
                         </li>
                         <li>
-                            <a href="">Sekrit</a>
+                            <a href="nothereyet.php">Sekrit</a>
                         </li>
                         <li>
-                            <a href="">CHIP-8 emulator</a>
+                            <a href="https://github.com/ishakd00/CHIP-8-Emulator">CHIP-8 emulator</a>
                         </li>
                         <li>
-                            <a href="">Compiler fun</a>
+                            <a href="nothereyet.php">Compiler fun</a>
                         </li>
                         <li>
-                            <a href="">Boljiklix</a>
+                            <a href="https://ishakd00.github.io/boljiklix/">Boljiklix</a>
                         </li>
                         <li>
-                            <a href="">Duolingo cheat</a>
+                            <a href="nothereyet.php">Duolingo cheat</a>
                         </li>
                         <li>
-                            <a href="">WebLC3</a>
+                            <a href="WebLC3/site/">WebLC3</a>
                         </li>
                     </ul>
                 </li>
