@@ -1,7 +1,22 @@
+@font-face {
+    font-family: 'DejaVu Serif';
+    src: url("font/DejaVuSerif.ttf") format("ttf");
+}
+
 body, html, div, h1, h2, h3, h4, h5, h6 {
     margin: 0;
     padding: 0;
-    font-family: 'DejaVu Serif';
+    font-family: 'coolfont', 'DejaVu Serif';
+    -webkit-font-smoothing: none;
+    -moz-osx-font-smoothing: none;
+}
+
+h2, h3 {
+    padding: 5px 0;
+}
+
+table {
+    margin: 0 auto;
 }
 
 .maingrid {
@@ -63,4 +78,9 @@ body, html, div, h1, h2, h3, h4, h5, h6 {
     font-family: sans-serif,Helvetica,Arial;
     letter-spacing: 0.5px;
     padding: 0px 10px;
+}
+
+.content td {
+    padding: 0 50px;
+    vertical-align: top;
 }
