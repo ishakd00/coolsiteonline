@@ -17,8 +17,6 @@
 </td>
 <td>
     <h2><a href="http://nerium.ishakdervisevic.com/rangliste">Nerium ranklists are up!</a></h2>
-    <br>
-    <h3><a href="ironyposioning.php">IRONY POSIONING</a></h3>
 <td>
 </tr>
 </table>
