@@ -11,47 +11,13 @@
 <body>
     <div class="maingrid">
         <div class="sidebar">
-            <h2><a href="index.php">Ishak <br> Dervisevic</a></h2>
+            <h2><a href="index.php">Ishak <br> Dervisevic <img style="height: 30px; width: auto;" src="media/computeremail.gif" alt=""></a></h2>
             <hr>
-            <ul>
-                <li><a href="whoami.php">Who am I</a></li>
-                <li>
-                    <a href="http://ishakdervisevic.com">Professional personal site (cringe)</a>
-                </li>
-                <li>
-                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="overflow-wrap: break-word;">
-                        my_resume_plug_because_all_this_is_to_impress_employers.pdf
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.github.com/ishakd00">Goothib (shameless plug xD xD pls hire me UwU)</a>
-                </li>
-            </ul>
-            <h4>Projects</h4>
-            <ul>
-                <li>
-                    Professional shit
+            <h4>Cool things</h4>
                     <ul>
                         <li>
-                            <a href="https://digitala.ba">
-                                Digitala.ba
-                            </a>
+                            <a href="logisim-cpu.php">Logisim cpu</a>
                         </li>
-                        <li>
-                            <a href="http://dev.elkelimeh.org">
-                                ekelimeh.com
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://example.com">
-                                notyetstarted.com
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    Personal stuffs
-                    <ul>
                         <li>
                             <a href="raycast.php">Raycasting engine</a>
                         </li>
@@ -59,19 +25,13 @@
                             <a href="regexEval.php">Regex parser and evaluator</a>
                         </li>
                         <li>
-                            <a href="https://github.com/ishakd00/faeg">FAEG</a>
-                        </li>
-                        <li>
                             <a href="https://github.com/ishakd00/olxba-py">olxba-py</a>
-                        </li>
-                        <li>
-                            <a href="nothereyet.php">Retro shit</a>
                         </li>
                         <li>
                             <a href="https://github.com/ishakd00/jraphics">Graphics fun</a>
                         </li>
                         <li>
-                            <a href="nothereyet.php">Sekrit</a>
+                            <a href="http://nerium.ishakdervisevic.com/rangliste">Sekrit</a>
                         </li>
                         <li>
                             <a href="https://github.com/ishakd00/CHIP-8-Emulator">CHIP-8 emulator</a>
@@ -92,13 +52,16 @@
                 </li>
             </ul>
             <hr>
-            <h4>Contact</h4>
+            <h4>Contact and socials</h4>
             <ul>
                 <li>
                     <a href = "mailto: email@ishakdervisevic.com">email@ishakdervisevic.com</a>
                 </li>
                 <li>
                     <a href="https://www.instagram.com/ishakd00/">Instagram <img src="media/wink.gif" alt=";)"></a>
+                </li>
+                <li>
+                 <a href="https://github.com/ishakd00">Github</a>
                 </li>
             </ul>
         </div>
