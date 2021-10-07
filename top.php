@@ -37,13 +37,10 @@
                             <a href="https://github.com/ishakd00/CHIP-8-Emulator">CHIP-8 emulator</a>
                         </li>
                         <li>
-                            <a href="nothereyet.php">Compiler fun</a>
-                        </li>
-                        <li>
                             <a href="https://ishakd00.github.io/boljiklix/">Boljiklix</a>
                         </li>
                         <li>
-                            <a href="nothereyet.php">Duolingo cheat</a>
+                            <a href="duolingo.php">Duolingo cheat</a>
                         </li>
                         <li>
                             <a href="WebLC3/site/">WebLC3</a>
