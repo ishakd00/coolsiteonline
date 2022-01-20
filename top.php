@@ -16,6 +16,9 @@
             <h4>Cool things</h4>
                     <ul>
                         <li>
+                            <a href="rgb.php">RGB Keyboard Snake</a>
+                        </li>
+                        <li>
                             <a href="logisim-cpu.php">Logisim cpu</a>
                         </li>
                         <li>

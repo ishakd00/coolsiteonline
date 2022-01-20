@@ -1,5 +1,4 @@
 <?php include("top.php");?>
-<h1>I'm so smard I do regexxxx</h1>
 <img style="height:300px; width:auto;" src="media/dragonBook.jpeg" alt="Dragon book cover here">
 <p>I made this regex parser and evaluator, it takes a regex string, builds a NFA finite state machine <br>
    You can convert it to a DFA or leave it as NFA and then match it with strings</p>
