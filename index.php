@@ -7,7 +7,9 @@
 <tr>
 
 <td>
-<img class="pixelart" style="height: 300px; width:auto;" src="media/ico gay.png"/>
+<img class="pixelart" id="gaybaloon" src="media/ico gay.png"/>
+<img class="pixelart" id="vedrangender" src="media/vedrangender.png"/>
+I'm vedrangender UwU
 </td>
 <td>
     <br>
