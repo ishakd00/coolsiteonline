@@ -7,7 +7,7 @@
 <tr>
 
 <td>
-<img style="height: 300px; width:auto;" src="media/haxorpepe.jpg"/>
+<img class="pixelart" style="height: 300px; width:auto;" src="media/ico gay.png"/>
 </td>
 <td>
     <br>

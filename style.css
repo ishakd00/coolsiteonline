@@ -84,3 +84,9 @@ table {
     padding: 0 50px;
     vertical-align: top;
 }
+
+img.pixelart {
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+}
